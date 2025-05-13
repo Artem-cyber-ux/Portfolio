@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+    color: white;
+}
+a {
+    text-decoration: none;
+    color: purple;
+}
+h1 {
+    color: pink;
+}
+p {
+    color: blueviolet;
+}
